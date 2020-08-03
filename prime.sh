@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "prime"
 read -p " Enter a number to check number is a prime or not a prime= "  num
 
 for (( i=1; i<=$num; i++ ))
